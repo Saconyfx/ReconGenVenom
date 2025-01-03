@@ -2,5 +2,4 @@ beautifulsoup4
 colorama  
 pyfiglet  
 requests  
-argparse  
-subprocess
+argparse
