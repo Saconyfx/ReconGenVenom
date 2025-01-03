@@ -32,8 +32,8 @@ Install the required dependencies
   
 Run the script  
   
-  python recongen_venom.py -h  
-  
+  python ReconGenVenom.py -h
+
 This will display the help menu with available options.
 
 ```
